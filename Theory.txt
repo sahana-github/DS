@@ -1,0 +1,12 @@
+Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+Depending on your requirement and project, it is important to choose the right data structure for your project.
+For example, if you want to store data sequentially in the memory, then you can go for the Array data structure.
+Types of Data Structure
+Basically, data structures are divided into two categories:
+Linear data structure
+Non-linear data structure
+Linear data structures
+In linear data structures, the elements are arranged in sequence one after the other. Since elements are arranged in particular order, they are easy to implement.
+However, when the complexity of the program increases, the linear data structures might not be the best choice because of operational complexities.
+Non linear data structures
+Unlike linear data structures, elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.
